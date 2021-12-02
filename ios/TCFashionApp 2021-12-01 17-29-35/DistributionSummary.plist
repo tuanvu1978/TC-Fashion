@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TCFashionApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<false/>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5D47B87B77C5AABF3BB5042E73B79EAB4E09CE89</string>
+				<key>dateExpires</key>
+				<string>10/10/2022</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5D47B87B77C5AABF3BB5042E73B79EAB4E09CE89</string>
+						<key>dateExpires</key>
+						<string>10/10/2022</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4SLRP3TV4D</string>
+						<key>name</key>
+						<string>THANH CONG TEXTILE GARMENT INVESTMENT TRADING JOINT STOCK COMPANY</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4SLRP3TV4D.TCFashionApp.thanhcong.com</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4SLRP3TV4D</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>4SLRP3TV4D.TCFashionApp.thanhcong.com</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>TCFashionApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>61367cf5-8c49-4c6b-a951-b66e2aafa6dc</string>
+				<key>dateExpires</key>
+				<string>10/10/2022</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: TCFashionApp.thanhcong.com</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4SLRP3TV4D</string>
+				<key>name</key>
+				<string>THANH CONG TEXTILE GARMENT INVESTMENT TRADING JOINT STOCK COMPANY</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

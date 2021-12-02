@@ -1,0 +1,9 @@
+Chào mừng bạn đến với thương hiệu thời trang TCM.
+Nhãn hiệu trong nước chất lương cao, những sản phẩm của TCM, mang đến cho bạn cuộc sống thoải mái, hạnh phúc.
+Nơi qui tụ tất cả sản phẩm quy tính, chất lượng, giá cả hợp lý.
+Các cửa hàng TCM tại Thành Phố Hồ Chí Minh
+hoặc tham khảo website www.thanhcong.com.vn
+
+Showing Recent Errors Only
+Build input file cannot be found: '/Users/tc/Documents/TC/TCFashion/ios/TCFashionAppTests/TCFashionTests.m'
+
